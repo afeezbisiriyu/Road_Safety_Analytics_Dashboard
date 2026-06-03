@@ -2,7 +2,8 @@
 ## CoreTech Labs Capstone Project
 
 ## Project Overview
-This project focuses on a comprehensive statistical analysis of road traffic accidents. Using a dataset of 307,972 records, I transformed raw, unstructured data into a high-fidelity interactive dashboard. The primary goal is to provide stakeholders with actionable insights to drive data-informed safety policies and resource allocation.
+This project focuses on a comprehensive statistical analysis of road traffic accidents. Using a dataset of 307,972 records, 
+I turned a messy spreadsheet of accident records into a simple, interactive dashboard to help teams see the big picture clearly so they can make data-driven decisions. Instead of hiding facts in raw numbers, it clearly shows when and where accidents happen most. It takes the guesswork out of road safety.
 
 ## Dashboard Preview
 ![Road Safety Analytics Dashboard](Images/Dashboard.png)
