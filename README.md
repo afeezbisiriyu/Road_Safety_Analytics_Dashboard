@@ -1,5 +1,4 @@
 # Road Safety Analytics Dashboard
-## CoreTech Labs Capstone Project
 
 ## Project Overview
 This project focuses on a comprehensive statistical analysis of road traffic accidents. Using a dataset of 307,972 records, 
