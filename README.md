@@ -32,6 +32,11 @@ This project aims to support transport authorities and safety planners at CoreTe
 
 ---
 
+### **DASHBOARD PREVIEW**
+![Road Safety Analytics Dashboard](Images/excelview.png)
+
+---
+
 ### **METHODOLOGY**
 
 * **STEP 1: Data Cleaning & Auditing:**
@@ -57,6 +62,11 @@ This project aims to support transport authorities and safety planners at CoreTe
 * **STEP 5: Reporting & Strategic Synthesis:**
   * Translate visual and statistical findings into actionable safety interventions.
 
+![Road Safety Analytics Dashboard](Images/descriptivestatistics.png)
+
+![Road Safety Analytics Dashboard](Images/pivottable.png)
+
+
 ---
 
 ### **TOOLS & TECHNOLOGIES**
@@ -64,11 +74,6 @@ This project aims to support transport authorities and safety planners at CoreTe
 * **Pivot Tables & Pivot Charts:** Multidimensional data summarisation and dynamic aggregation.
 * **Excel Dashboard Architecture:** Interactive Slicers, KPI metric cards, and custom visual formatting.
 * **Descriptive Statistics:** Frequency distributions, mean, median, skewness, and variance analysis.
-
----
-
-### **DASHBOARD PREVIEW**
-![Road Safety Analytics Dashboard](Images/dashboard.png)
 
 ---
 
