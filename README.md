@@ -93,7 +93,9 @@ This project aims to support transport authorities and safety planners at CoreTe
   * **Seasonality & Environment:** Accident occurrences peak distinctly in **November** (15,473 incidents), correlating with reduced daylight and adverse weather conditions.
 
 -----
+
 ![Road Safety Analytics Dashboard](Images/excelview.png)
+
 -----
 
 ### **KEY INSIGHTS**
