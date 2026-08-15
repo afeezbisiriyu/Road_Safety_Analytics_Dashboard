@@ -34,11 +34,6 @@ This project aims to support transport authorities and safety planners at CoreTe
 
 ---
 
-### **DASHBOARD PREVIEW**
-![Road Safety Analytics Dashboard](Images/excelview.png)
-
----
-
 ### **METHODOLOGY**
 
 * **STEP 1: Data Cleaning & Auditing:**
@@ -97,7 +92,9 @@ This project aims to support transport authorities and safety planners at CoreTe
   * **Vehicle Contribution:** Passenger cars represent the primary contributor, accounting for over 333,000 casualties.
   * **Seasonality & Environment:** Accident occurrences peak distinctly in **November** (15,473 incidents), correlating with reduced daylight and adverse weather conditions.
 
----
+-----
+![Road Safety Analytics Dashboard](Images/excelview.png)
+-----
 
 ### **KEY INSIGHTS**
 * **Urban Concentration:** High-density urban roads generate the majority of total casualty volume, requiring localised traffic calming measures.
