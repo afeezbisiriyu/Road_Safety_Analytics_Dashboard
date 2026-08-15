@@ -1,8 +1,10 @@
-# ROAD SAFETY ANALYTICS DASHBOARD
+# ROAD SAFETY ANALYTICS
 
 **Transforming 307K+ Traffic Accident Records into Strategic Intelligence for Data-Driven Public Safety Interventions**
 
 ---
+
+![RoadSafetyAnalytics](Images/image-auto-accident-involving-two-cars.jpg)
 
 ### **Disclaimer ⚠️**
 All datasets, metrics, and reports utilised in this project are anonymised or dummy public domain data designed to demonstrate capabilities in data cleaning, descriptive statistical modelling, and interactive dashboard development in Microsoft Excel for CoreTech Labs.
